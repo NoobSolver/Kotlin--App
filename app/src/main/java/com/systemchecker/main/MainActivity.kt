@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
 
 
         /**
-         * Starting the service
+         * Starting the service created
          **/
         val mainService = MainIntentService::class.java
         val service = Intent(applicationContext, mainService)
