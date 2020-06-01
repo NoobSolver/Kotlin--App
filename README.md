@@ -12,6 +12,11 @@
   <img src="https://github.com/NoobSolver/Kotlin--App/blob/master/Screenshots/Image2.jpeg" width="288" />
   </p>
 
+### Contribution-
+
+* Please Read 
 
 
+
+**If you like it ,give it a :star:**
 **Made by :heart: NoobSolver**
