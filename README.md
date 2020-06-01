@@ -2,8 +2,8 @@
 - - - -
 ## About the App
 
-*This is the app named Android Tracker which is built using concepts of android like fragments,Layout Editor etc.
-*The app has a gallery which contains several options like Home,Share,Slideshow etc.
+* This is the app named Android Tracker which is built using concepts of android like fragments,Layout Editor etc.
+* The app has a gallery which contains several options like Home,Share,Slideshow etc.
 
 ### Screenshots-
 
