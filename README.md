@@ -14,9 +14,11 @@
 
 ### Contribution-
 
-* Please Read 
+* Please Read [Contributions.md](https://github.com/NoobSolver/Kotlin--App/blob/master/CONTRIBUTING.md) 
 
 
 
-**If you like it ,give it a :star:**
+**If you like it,give it a :star:**
+
+
 **Made by :heart: NoobSolver**
